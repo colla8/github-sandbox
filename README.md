@@ -17,7 +17,6 @@ A GitHub Actions workflow that lets you download files into your repository just
 
 
 That's it — no tokens or secrets needed.
-
 ---
 
 ## 🚀 Usage
